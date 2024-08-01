@@ -1,12 +1,13 @@
 
 namespace HelpMeCook.DTO;
 
-public class Login 
+public class LoginDTO
 {
-    public int LoginID{ get; set;}
     public string Username { get; set; }
     public string Password { get; set; }
+}
 
-    public User UserID  { get; set; }
-
+public class LoginWithUserIDDTO : LoginDTO
+{
+   public int UserID  { get; set; }
 }
