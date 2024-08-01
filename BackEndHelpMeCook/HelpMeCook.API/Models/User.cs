@@ -10,6 +10,10 @@ public class User
     public string LastName { get; set; }
     public DateTime CratedDate { get; set; }
 
-    public ICollection<Recipe> Recipes  { get; set; }
-    public Login Login { get; set; }
+    // One-to-Many Relationship between User and Recipes
+    // Initializing the list so that we can store returned Recipes later
+    public ICollection<Recipe>? Recipes  { get; set; } = [];
+    // One-to-One Relationship between User and Login
+    // Initializing the list so that we can store returned Login later
+    public Login? Login { get; set; } = new Login();
 }
