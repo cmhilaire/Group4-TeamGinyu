@@ -1,5 +1,5 @@
 
-namespace HelpMeCook.DTO;
+namespace HelpMeCook.API.Models.DTO;
 
 public class LoginDTO
 {
