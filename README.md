@@ -39,7 +39,7 @@ The following tables will be used in the database:
     - RecipeID
     - CreatedDate
 
-![Alt text](ERD.png)
+![Alt text](ERD.jpeg)
 
 ## External API
 
