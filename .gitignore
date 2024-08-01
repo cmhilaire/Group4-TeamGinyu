@@ -1,1 +1,5 @@
 .DS_Store
+BackEndHelpMeCook/HelpMeCook.API/obj
+BackEndHelpMeCook/HelpMeCook.API/bin
+BackEndHelpMeCook/HelpMeCook.TESTS/obj
+BackEndHelpMeCook/HelpMeCook.TESTS/bin

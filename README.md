@@ -1,8 +1,9 @@
 # Group4-TeamGinyu
 
+![Alt text](Project2_Process.jpg)
 
-## Project Proposal
-Our project aims to create a user-friendly platform where users can manage their culinary experiences. Users will have the ability to create an account, log in, search recipes by ingredients, and save recipes. By leveraging the Spoonacular API, we will provide a comprehensive database of ingredients and recipes to enhance user experience.
+## Project Proposal: HelpMeCook
+Our project aims to create a user-friendly platform where users can manage their culinary experiences called. Users will have the ability to create an account, log in, search recipes by ingredients, and save recipes. By leveraging the Spoonacular API, we will provide a comprehensive database of ingredients and recipes to enhance user experience.
 
 ## MVP Features
 
